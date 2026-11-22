@@ -2,7 +2,7 @@ Employee Management System (EMS)
 
  A full-stack Java web application for managing employee records with full CRUD and search functionality, built using Spring MVC, JPA/Hibernate, and JSP.
 
-
+(A sample java project)
 
 Tech Stack
 
